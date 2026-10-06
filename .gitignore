@@ -1,0 +1,5 @@
+runs/
+sim
+gls
+*.vcd
+__pycache__/

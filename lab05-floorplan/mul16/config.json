@@ -1,0 +1,12 @@
+{
+  "DESIGN_NAME": "mul16",
+  "VERILOG_FILES": "dir::src/*.v",
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 20,
+  "FP_SIZING": "relative",
+  "FP_CORE_UTIL": 30,
+  "FP_ASPECT_RATIO": 1,
+  "QUIT_ON_TIMING_VIOLATIONS": 0,
+  "QUIT_ON_SETUP_VIOLATIONS": 0,
+  "QUIT_ON_HOLD_VIOLATIONS": 0
+}
